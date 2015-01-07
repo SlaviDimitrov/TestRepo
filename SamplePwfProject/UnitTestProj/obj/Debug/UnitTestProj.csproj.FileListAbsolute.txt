@@ -1,0 +1,5 @@
+C:\Repos\testing\TestRepo\SamplePwfProject\UnitTestProj\bin\Debug\UnitTestProj.dll
+C:\Repos\testing\TestRepo\SamplePwfProject\UnitTestProj\bin\Debug\UnitTestProj.pdb
+C:\Repos\testing\TestRepo\SamplePwfProject\UnitTestProj\obj\Debug\UnitTestProj.csprojResolveAssemblyReference.cache
+C:\Repos\testing\TestRepo\SamplePwfProject\UnitTestProj\obj\Debug\UnitTestProj.dll
+C:\Repos\testing\TestRepo\SamplePwfProject\UnitTestProj\obj\Debug\UnitTestProj.pdb

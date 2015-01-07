@@ -1,0 +1,13 @@
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\bin\Debug\SamplePwfProject.exe.config
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\bin\Debug\SamplePwfProject.exe
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\bin\Debug\SamplePwfProject.pdb
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.csprojResolveAssemblyReference.cache
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\MainWindow.baml
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\MainWindow.g.cs
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\App.g.cs
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject_MarkupCompile.cache
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.g.resources
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.Properties.Resources.resources
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.csproj.GenerateResource.Cache
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.exe
+C:\Repos\testing\TestRepo\SamplePwfProject\SamplePwfProject\obj\Debug\SamplePwfProject.pdb

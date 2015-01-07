@@ -1,0 +1,10 @@
+﻿<Window x:Class="SamplePwfProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="155" Width="245">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="20,73,0,0" VerticalAlignment="Top" Width="197" Click="Button_Click"/>
+        <TextBox Name="textBox" HorizontalAlignment="Left" Height="23" Margin="20,22,0,0" TextWrapping="Wrap" Text="Clear" VerticalAlignment="Top" Width="197"/>
+
+    </Grid>
+</Window>
